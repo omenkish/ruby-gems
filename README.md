@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+OmenkishViewTool::Renderer.copyright 'Eneojo Omede', 'All rights reserved
+```
 
 ## Development
 
